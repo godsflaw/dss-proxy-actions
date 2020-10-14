@@ -92,3 +92,5 @@ https://github.com/makerdao/dss-proxy-actions
 `exit(address daiJoin, address pot, uint wad)`: retrieves `wad` amount of DAI from `pot` and exits DAI token from `daiJoin` adapter (minting it).
 
 `exitAll(address daiJoin, address pot)`: same than `exit` but all the available amount.
+
+# NOOP
